@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1569350838 source:c:\users\aluno\downloads\tad-coordenadas-master\teste-coordenadas.c
+	<assert.h>
+	<stdio.h>
+	<math.h>
+	"coordenadas.h"
+
+1555018607 c:\users\aluno\downloads\tad-coordenadas-master\coordenadas.h
+
+1569350806 source:c:\users\aluno\downloads\tad-coordenadas-master\coordenadas.c
+	"coordenadas.h"
+	<math.h>
+	<stdio.h>
+
+1569336788 source:c:\users\jonathan\desktop\lista geometria\tad-coordenadas-master\coordenadas.c
+	"coordenadas.h"
+	<math.h>
+	<stdio.h>
+
+1569336786 c:\users\jonathan\desktop\lista geometria\tad-coordenadas-master\coordenadas.h
+
+1569336788 source:c:\users\jonathan\desktop\lista geometria\tad-coordenadas-master\teste-coordenadas.c
+	<assert.h>
+	<stdio.h>
+	<math.h>
+	"coordenadas.h"
+
